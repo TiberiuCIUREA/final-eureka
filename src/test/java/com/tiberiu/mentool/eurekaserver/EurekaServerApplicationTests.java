@@ -1,4 +1,4 @@
-package com.cristi.mentool.eurekaserver;
+package com.tiberiu.mentool.eurekaserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

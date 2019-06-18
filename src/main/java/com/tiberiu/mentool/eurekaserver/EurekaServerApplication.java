@@ -1,4 +1,4 @@
-package com.cristi.mentool.eurekaserver;
+package com.tiberiu.mentool.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
